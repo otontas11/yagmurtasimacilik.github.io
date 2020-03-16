@@ -1416,7 +1416,10 @@ h3{
 
 /* line 1, ../../Arafath/CL/Cl November/223. Transportation/HTML/scss/_slider.scss */
 .slider_bg_1 {
-  background-image: url(../img/banner/banner.png);
+  background-image: url(../img/banner/back.jpg);
+}
+.slider_bg_servis{
+  background-image: url(../img/banner/evdeneve.png);
 }
 
 /* line 4, ../../Arafath/CL/Cl November/223. Transportation/HTML/scss/_slider.scss */
