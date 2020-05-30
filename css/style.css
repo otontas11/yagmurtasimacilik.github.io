@@ -1448,10 +1448,9 @@ h3{
   display: inline-block;
   color: #fff;
 }
-
-/* line 1, ../../Arafath/CL/Cl November/223. Transportation/HTML/scss/_slider.scss */
+ 
 .slider_bg_1 {
-  background-image: url(../img/banner/back.jpg);
+  background-image: url(../img/banner/back.webp);
 }
 .slider_bg_servis{
   background-image: url(../img/banner/evdeneve.png);
